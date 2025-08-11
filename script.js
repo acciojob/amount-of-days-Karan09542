@@ -17,6 +17,7 @@ function daysOfAYears(year){
 					}
 					return 29
 				}
+				return 28;
 			}
 			case 4:
 			case 6:
